@@ -1,0 +1,144 @@
+VERSION = 1,
+
+option NightSprinters.startSummer
+{
+	type = integer, min = 0, max = 23, default = 23,
+	page = NightSprinters, translation = startSummer,
+}
+
+option NightSprinters.endSummer
+{
+	type = integer, min = 0, max = 23, default = 6,
+	page = NightSprinters, translation = endSummer,
+}
+
+option NightSprinters.startAutumn
+{
+	type = integer, min = 0, max = 23, default = 22,
+	page = NightSprinters, translation = startAutumn,
+}
+
+option NightSprinters.endAutumn
+{
+	type = integer, min = 0, max = 23, default = 6,
+	page = NightSprinters, translation = endAutumn,
+}
+
+option NightSprinters.startWinter
+{
+	type = integer, min = 0, max = 23, default = 20,
+	page = NightSprinters, translation = startWinter,
+}
+
+option NightSprinters.endWinter
+{
+	type = integer, min = 0, max = 23, default = 6,
+	page = NightSprinters, translation = endWinter,
+}
+
+option NightSprinters.startSpring
+{
+	type = integer, min = 0, max = 23, default = 22,
+	page = NightSprinters, translation = startSpring,
+}
+
+option NightSprinters.endSpring
+{
+	type = integer, min = 0, max = 23, default = 6,
+	page = NightSprinters, translation = endSpring,
+}
+
+option NightSprinters.rainSprinters
+{
+	type = boolean, default = false,
+	page = NightSprinters, translation = rainSprinters,
+}
+
+option NightSprinters.RainThreshold
+{
+	type = float, default = 0, max = 1,
+	page = NightSprinters, translation = rainSprinters,
+}
+
+
+option NightSprinters.normalZombies
+{
+	type = enum, numValues = 4, default = 2,
+	page = NightSprinters, translation = normalZombies,
+	valueTranslation = Zombie_speeds,
+}
+
+option NightSprinters.modifiedZombies
+{
+	type = enum, numValues = 4, default = 1,
+	page = NightSprinters, translation = modifiedZombies,
+	valueTranslation = Zombie_speeds,
+}
+
+option NightSprinters.enhancedZombies
+{
+	type = boolean, default = false,
+	page = NightSprinters, translation = enhancedZombies,
+}
+
+option NightSprinters.ZombiesCognition
+{
+	type = boolean, default = false,
+	page = NightSprinters, translation = ZombiesCognition,
+}
+
+option NightSprinters.normalZombiesToughness
+{
+	type = enum, numValues = 4, default = 2,
+	page = NightSprinters, translation = normalZombiesToughness,
+	valueTranslation = Zombie_toughness,
+}
+
+option NightSprinters.modifiedZombiesToughness
+{
+	type = enum, numValues = 4, default = 1,
+	page = NightSprinters, translation = modifiedZombiesToughness,
+	valueTranslation = Zombie_toughness,
+}
+
+option NightSprinters.normalZombiesHearing
+{
+	type = enum, numValues = 3, default = 2,
+	page = NightSprinters, translation = normalZombiesHearing,
+	valueTranslation = Zombie_hearing,
+}
+
+option NightSprinters.modifiedZombiesHearing
+{
+	type = enum, numValues = 3, default = 1,
+	page = NightSprinters, translation = modifiedZombiesHearing,
+	valueTranslation = Zombie_hearing,
+}
+
+option NightSprinters.normalZombiesSight
+{
+	type = enum, numValues = 3, default = 2,
+	page = NightSprinters, translation = normalZombiesSight,
+	valueTranslation = Zombie_sight,
+}
+
+option NightSprinters.modifiedZombiesSight
+{
+	type = enum, numValues = 3, default = 1,
+	page = NightSprinters, translation = modifiedZombiesSight,
+	valueTranslation = Zombie_sight,
+}
+
+option NightSprinters.normalZombiesMemory
+{
+	type = enum, numValues = 4, default = 2,
+	page = NightSprinters, translation = normalZombiesMemory,
+	valueTranslation = Zombie_memory,
+}
+
+option NightSprinters.modifiedZombiesMemory
+{
+	type = enum, numValues = 4, default = 1,
+	page = NightSprinters, translation = modifiedZombiesMemory,
+	valueTranslation = Zombie_memory,
+}

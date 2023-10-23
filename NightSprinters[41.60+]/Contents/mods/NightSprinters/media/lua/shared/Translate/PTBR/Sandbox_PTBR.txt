@@ -1,0 +1,95 @@
+Sandbox_PTBR = {
+Sandbox_NightSprinters = "Corredores noturnos",
+
+Sandbox_startSummer = "Anoitecer para o verão",
+Sandbox_endSummer = "Amanhecer para o verão",
+Sandbox_startAutumn = "Anoitecer para o Outono",
+Sandbox_endAutumn = "Aurora para o Outono",
+Sandbox_startWinter = "Anoitecer para o inverno",
+Sandbox_endWinter = "Alvorada para o inverno",
+Sandbox_startSpring = "Anoitecer para a Primavera",
+Sandbox_endSpring = "Aurora para a Primavera",
+
+Sandbox_startSummer_tooltip = "Em tempo militar",
+Sandbox_endSummer_tooltip = "Em tempo militar",
+Sandbox_startAutumn_tooltip = "Em tempo militar",
+Sandbox_endAutumn_tooltip = "Em tempo militar",
+Sandbox_startWinter_tooltip = "Em tempo militar",
+Sandbox_endWinter_tooltip = "Em tempo militar",
+Sandbox_startSpring_tooltip = "Em tempo militar",
+Sandbox_endSpring_tooltip = "Em tempo militar",
+
+Sandbox_rainSprinters = "Corredores de chuva",
+Sandbox_rainSprinters_tooltip = "Com esta opção ativada, os zumbis seguirão a velocidade noturna dos zumbis e os zumbis aprimorados (se ativados) quando estiver chovendo.",
+
+Sandbox_normalZombies = "Velocidade diurna do zumbi",
+Sandbox_normalZombies_tooltip = "velocidade do zumbi durante o dia",
+Sandbox_modifiedZombies = "Velocidade noturna de zumbi",
+Sandbox_modifiedZombies_tooltip = "Velocidade do zumbi durante a noite",
+
+Sandbox_Zombie_speeds_option1 = "Velocistas"
+Sandbox_Zombie_speeds_option2 = "Shamblers Rápidos",
+Sandbox_Zombie_speeds_option3 = "Shamblers",
+Sandbox_Zombie_speeds_option4 = "Aleatório",
+
+Sandbox_enhancedZombies = "Zumbis aprimorados",
+Sandbox_enhancedZombies_tooltip = "Isso permite o uso de atributos de zumbis modificados além da velocidade do zumbi",
+
+Sandbox_normalZombiesStrength = "Força zumbi durante o dia",
+Sandbox_normalZombiesStrength_tooltip = "Força do Zumbi durante o dia",
+Sandbox_modifiedZombiesStrength = "Força noturna de zumbi",
+Sandbox_modifiedZombiesStrength_tooltip = "Força Zumbi durante a noite",
+
+Sandbox_Zombie_strength_option1 = "Super-humano"
+Sandbox_Zombie_strength_option2 = "Normal",
+Sandbox_Zombie_strength_option3 = "Fraco",
+Sandbox_Zombie_strength_option4 = "Aleatório",
+
+Sandbox_ZombiesCognition = "Zumbis podem abrir portas durante a noite",
+Sandbox_ZombiesCognition_tooltip = "Se ativado, os zumbis podem abrir portas durante a noite",
+Sandbox_modifiedZombiesCognition = "Cognição noturna de zumbi",
+Sandbox_modifiedZombiesCognition_tooltip = "Se verdadeiro, zumbis são capazes de abrir portas durante a noite",
+
+Sandbox_Zombie_cognition_option1 = "Navegar + usar portas"
+Sandbox_Zombie_cognition_option2 = "Navegar",
+Sandbox_Zombie_cognition_option3 = "Navegação básica",
+Sandbox_Zombie_cognition_option4 = "Aleatório",
+
+Sandbox_normalZombiesToughness = "Resistência zumbi durante o dia",
+Sandbox_normalZombiesToughness_tooltip = "Resistência Zumbi durante o dia",
+Sandbox_modifiedZombiesToughness = "Resistência de zumbi noturno",
+Sandbox_modifiedZombiesToughness_tooltip = "Resistência Zumbi durante a noite",
+
+Sandbox_Zombie_toughness_option1 = "Resistente"
+Sandbox_Zombie_toughness_option2 = "Normal",
+Sandbox_Zombie_toughness_option3 = "Frágil",
+Sandbox_Zombie_toughness_option4 = "Aleatório",
+
+Sandbox_normalZombiesHearing = "Audição diurna de zumbis",
+Sandbox_normalZombiesHearing_tooltip = "Audição de zumbis durante o dia",
+Sandbox_modifiedZombiesHearing = "Audição noturna de zumbis",
+Sandbox_modifiedZombiesHearing_tooltip = "Audição de zumbis durante a noite",
+
+Sandbox_Zombie_hearing_option1 = "Identificar"
+Sandbox_Zombie_hearing_option2 = "Normal",
+Sandbox_Zombie_hearing_option3 = "Ruim",
+
+Sandbox_normalZombiesSight = "Visão diurna de zumbis",
+Sandbox_normalZombiesSight_tooltip = "Visão de Zumbi durante o dia",
+Sandbox_modifiedZombiesSight = "Visão noturna de zumbis",
+Sandbox_modifiedZombiesSight_tooltip = "Visão de zumbis durante a noite",
+
+Sandbox_Zombie_sight_option1 = "Águia"
+Sandbox_Zombie_sight_option2 = "Normal",
+Sandbox_Zombie_sight_option3 = "Ruim",
+
+Sandbox_normalZombiesMemory = "Memória diurna de zumbis",
+Sandbox_normalZombiesMemory_tooltip = "Memória Zumbi durante o dia",
+Sandbox_modifiedZombiesMemory = "Memória noturna de zumbis",
+Sandbox_modifiedZombiesMemory_tooltip = "Memória Zumbi durante a noite",
+
+Sandbox_Zombie_memory_option1 = "Longo"
+Sandbox_Zombie_memory_option2 = "Normal",
+Sandbox_Zombie_memory_option3 = "Curto",
+Sandbox_Zombie_memory_option4 = "Nenhum",
+}

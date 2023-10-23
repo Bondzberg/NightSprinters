@@ -1,0 +1,43 @@
+version=1
+id=2683677702
+title=Night Sprinters [41.60+]
+description=[h1]New Update(8/21/2022):[/h1] [list]
+description=    [*]Random Zombies compatibility: Compatibility with the mod Random zombies has finally been added. During the day, Random zombies will be enabled while at night Night Sprinters are enabled. Special thanks to Belette dev of [url=steamcommunity.com/sharedfiles/filedetails/?id=2818577583]random zombies[/url] for working with me to implement this.
+description=    [*]Enhanced Zombies[for versions 41.78+ please read the known issues]: New sandbox settings have been added allowing for further changes to zombies settings during the night. These include sight, memory, toughness, hearing, and the ability to open doors during the night. (note: strength is not possible to change and cognition does not seem to be fully implement, that's why they are not in this release).
+description=    [*]Minor sandbox text changes: I've changed "normal" to "daytime" and "modified" to "nighttime" in the sandbox text. Minor change that is a bit more intuitive.
+description=[/list]
+description=
+description=[h1]What is this mod?[/h1]
+description=This is an updated/rewritten version of Night Sprinters for builds 41.60+ with a couple new features. The old mod developer has gone quite, so I've updated the mod for the current build of the game. For those unfamiliar with the old mod, zombies will now sprint at night giving a better balance for those who don't want sprinters all the time or gives the night something to truly fear.
+description=
+description=[h1]New Features:[/h1] [list]
+description=    [*]New customization options: Through mod options, you can now choose the zombie speed, toughness, sight, hearing, and memory for both night and day, what you consider to be night and day for each season, and the classic rain sprinters.
+description=    [*]Optimization: The previous mod had some issues with performance that might have shown up on lower end machines. This mod is much more optimized/simplified and should run with minimal performance loss.
+description=[/list]
+description=
+description=[h1]Know Issues:[/h1][list]
+description=    [*][strike]Server zombie speed issues: On dedicated servers, zombies just outside the player's load area will have the wrong speed type when the speed type changes. This occurs with all zombie speed types and will happen approximately 100 tiles from the players and may extent another 50 tiles. Zombies outside this range should have the correct speed type. More information below.[/strike](fixed as of 12/29/2021)
+description=    [*]Random speed and animations in multiplayer: Due to the fix I implemented to fix the out of sync zombie speeds issues, random speed do not work properly  and animation types for zombies might change occasionally. Currently waiting for an update to multiplayer to implement a fix.
+description=    [*]Hosting server settings: Due to how project zomboid handles modded sandbox settings, you will need to have the mod enabled when hosting the server. This isn't really something I can fix so it's up to the developers to fix it.
+description=    [*]Customizable zombies: Due to how both mods work, one will take control over the zombies speed and overwrite the other. Works with their other settings such as health however.
+description=    [*][strike]Enhanced Zombies in 41.78+: Due to a recent change in the unstable branch sight, hearing, and memory are now broken. Previously, these values could be changed by changing the sandbox settings mid game. However, with 41.78, these values can now be randomized and therefore can change from zombie to zombie. This means I can no longer easily change them as it was before. There is also no easy way to change these variables from a modder perspective as doing so would either require the user to be in debug mode, or require abusing the randomized setting to get the right settings for each zombie. While the latter is possible, it will likely cause severe performance issues.[/strike] Looks like one of the PZ updates changed the code a bit fixing this issue, no update required.
+description=[/list]
+description=
+description=[h1]Credits:[/h1][list]
+description=    [*]Gobolti: For making the first version of the mod and for some of the code.
+description=    [*]ATPHHe(Dev of [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1992785456]customizable zombie[/url]): For helping out with the dedicated server issue.
+description=    [*]Xephrax and Xepho(Devs of [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2701051439]Xeph Zombie Modifications[/url]): Solution to the out of sync zombies thing.
+description=    [*]Belette: Dev of [url=steamcommunity.com/sharedfiles/filedetails/?id=2818577583]random zombies[/url]. Helped with some of the enhanced zombies bits and with adding compatibility between our two mods.
+description=[/list]
+description=
+description=[h1]Before you comment[/h1]
+description=Just a couple of things that get commented a lot:[list]
+description=    [*]Can I use the source code of the mod for X: Go ahead. I have no problems with people using the source code of this mod for any reason expect needless rehosting (modpacks are good though).
+description=    [*]I've run into X problem: Yeah, that happens a lot. Go ahead and give me your best run down on what happened along with any other info you might have(logs especially) and I'll reply when I've figured it out.
+description=    [*]Can you add X feature?: Probably not. Plainly, I've lost a lot of passion for modding this game. Lots of weird things you got to do to accomplish things and sometimes you can't even fix them. For instance, multiplayer took 50-75 hours of debugging to figure out it was a vanilla bug the entire time that I couldn't fix. Feel free to post your suggestion however, I might come back to it one day.
+description=[/list]
+description=
+description=Workshop ID: 2683677702
+description=Mod ID: NightSprinters[41.60+]
+tags=Build 41;Hardmode;Misc;Multiplayer
+visibility=public

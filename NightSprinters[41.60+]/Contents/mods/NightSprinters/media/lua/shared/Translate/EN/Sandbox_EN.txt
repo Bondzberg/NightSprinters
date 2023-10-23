@@ -1,0 +1,95 @@
+Sandbox_EN = {
+    Sandbox_NightSprinters = "Night Sprinters",
+
+    Sandbox_startSummer = "Nightfall for Summer",
+    Sandbox_endSummer   = "Daybreak for Summer",
+    Sandbox_startAutumn = "Nightfall for Autumn",
+    Sandbox_endAutumn   = "Daybreak for Autumn",
+    Sandbox_startWinter = "Nightfall for Winter",
+    Sandbox_endWinter   = "Daybreak for Winter",
+    Sandbox_startSpring = "Nightfall for Spring",
+    Sandbox_endSpring   = "Daybreak for Spring",
+
+    Sandbox_startSummer_tooltip = "In military time",
+    Sandbox_endSummer_tooltip   = "In military time",
+    Sandbox_startAutumn_tooltip = "In military time",
+    Sandbox_endAutumn_tooltip   = "In military time",
+    Sandbox_startWinter_tooltip = "In military time",
+    Sandbox_endWinter_tooltip   = "In military time",
+    Sandbox_startSpring_tooltip = "In military time",
+    Sandbox_endSpring_tooltip   = "In military time",
+
+    Sandbox_rainSprinters = "Rain Sprinters",
+    Sandbox_rainSprinters_tooltip = "With this option enabled, zombies will follow the nighttime zombie speed and Enhanced zombies(if enabled) when it is raining.",
+
+    Sandbox_normalZombies   = "Daytime zombie speed",
+    Sandbox_normalZombies_tooltip   = "zombie speed during the day",
+    Sandbox_modifiedZombies = "Nighttime zombie speed",
+    Sandbox_modifiedZombies_tooltip = "Zombie Speed during the night",
+
+    Sandbox_Zombie_speeds_option1 = "Sprinters"    
+    Sandbox_Zombie_speeds_option2 = "Fast Shamblers",
+    Sandbox_Zombie_speeds_option3 = "Shamblers",
+    Sandbox_Zombie_speeds_option4 = "Random",
+
+    Sandbox_enhancedZombies = "Enhanced Zombies",
+    Sandbox_enhancedZombies_tooltip = "This enables the use of modified zombie attributes beyond just the zombie's speed",
+
+    Sandbox_normalZombiesStrength   = "Daytime zombie Strength",
+    Sandbox_normalZombiesStrength_tooltip   = "Zombie Strength during the day",
+    Sandbox_modifiedZombiesStrength = "Nighttime zombie Strength",
+    Sandbox_modifiedZombiesStrength_tooltip = "Zombie Strength during the night",
+
+    Sandbox_Zombie_strength_option1 = "Superhuman"    
+    Sandbox_Zombie_strength_option2 = "Normal",
+    Sandbox_Zombie_strength_option3 = "Weak",
+    Sandbox_Zombie_strength_option4 = "Random",
+
+    Sandbox_ZombiesCognition   = "Zombies can open doors during nighttime",
+    Sandbox_ZombiesCognition_tooltip   = "If enabled, zombies are able to open doors during Nighttime hours",
+    Sandbox_modifiedZombiesCognition = "Nighttime zombie Cognition",
+    Sandbox_modifiedZombiesCognition_tooltip = "If true, zombies are able to open doors during nighttime hours",
+
+    Sandbox_Zombie_cognition_option1 = "Navigate + use doors"    
+    Sandbox_Zombie_cognition_option2 = "Navigate",
+    Sandbox_Zombie_cognition_option3 = "Basic navigation",
+    Sandbox_Zombie_cognition_option4 = "Random",
+
+    Sandbox_normalZombiesToughness   = "Daytime zombie Toughness",
+    Sandbox_normalZombiesToughness_tooltip   = "Zombie Toughness during the day",
+    Sandbox_modifiedZombiesToughness = "Nighttime zombie Toughness",
+    Sandbox_modifiedZombiesToughness_tooltip = "Zombie Toughness during the night",
+
+    Sandbox_Zombie_toughness_option1 = "Tough"    
+    Sandbox_Zombie_toughness_option2 = "Normal",
+    Sandbox_Zombie_toughness_option3 = "Fragile",
+    Sandbox_Zombie_toughness_option4 = "Random",
+
+    Sandbox_normalZombiesHearing   = "Daytime zombie Hearing",
+    Sandbox_normalZombiesHearing_tooltip   = "Zombie Hearing during the day",
+    Sandbox_modifiedZombiesHearing = "Nighttime zombie Hearing",
+    Sandbox_modifiedZombiesHearing_tooltip = "Zombie Hearing during the night",
+
+    Sandbox_Zombie_hearing_option1 = "Pinpoint"    
+    Sandbox_Zombie_hearing_option2 = "Normal",
+    Sandbox_Zombie_hearing_option3 = "Poor",
+
+    Sandbox_normalZombiesSight   = "Daytime zombie Sight",
+    Sandbox_normalZombiesSight_tooltip   = "Zombie Sight during the day",
+    Sandbox_modifiedZombiesSight = "Nighttime zombie Sight",
+    Sandbox_modifiedZombiesSight_tooltip = "Zombie Sight during the night",
+
+    Sandbox_Zombie_sight_option1 = "Eagle"    
+    Sandbox_Zombie_sight_option2 = "Normal",
+    Sandbox_Zombie_sight_option3 = "Poor",
+
+    Sandbox_normalZombiesMemory   = "Daytime zombie Memory",
+    Sandbox_normalZombiesMemory_tooltip   = "Zombie Memory during the day",
+    Sandbox_modifiedZombiesMemory = "Nighttime zombie Memory",
+    Sandbox_modifiedZombiesMemory_tooltip = "Zombie Memory during the night",
+
+    Sandbox_Zombie_memory_option1 = "Long"    
+    Sandbox_Zombie_memory_option2 = "Normal",
+    Sandbox_Zombie_memory_option3 = "Short",
+    Sandbox_Zombie_memory_option4 = "None",
+}
